@@ -18,6 +18,7 @@ This is mainly a for using Grayjay in the browser but I added catppuchin css bec
 * removed new window button because it doesn't while inside the browser
 * made mini-player bigger
 * change postion of player while reading comments to the right
+* made recomended videos scrollable while in player-screen
 
 
 ---
