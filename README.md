@@ -3,7 +3,7 @@ This is mainly a for using Grayjay in the browser but I added catppuchin css bec
 ## How to use
 
 1) make sure you have [Grayjay-desktop](https://grayjay.app/desktop/) installed
-2) open grayjay via this [script](https://github.com/F-4Dev/.dot-files/raw/refs/heads/main/scripts/open-grayjay.sh)
+2) open grayjay via this [script](https://github.com/F-4Dev/grayjay-in-browser/raw/refs/heads/main/open-grayjay.sh)
    * **make sure to change the path in this script to your grayjay installation**
    * **chnage the script to use your prefered browser (I am using librewolf)**
 4) install [stlyus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) extension and create a style for urls matching this regex: `http://localhost:.*/web/.*`
