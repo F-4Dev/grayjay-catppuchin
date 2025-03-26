@@ -6,10 +6,11 @@ This is mainly a for using Grayjay in the browser but I added catppuchin css bec
 2) open grayjay via this [script](https://github.com/F-4Dev/grayjay-in-browser/raw/refs/heads/main/open-grayjay.sh)
    * **make sure to change the path in this script to your grayjay installation**
    * **chnage the script to use your prefered browser (I am using librewolf)**
-4) install [stlyus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) extension and create a style for urls matching this regex: `http://localhost:.*/web/.*`
-6) paste in the [css](https://github.com/F-4Dev/grayjay-catppuchin/raw/refs/heads/main/style.css)
 
-   done ^^
+## custom css
+
+1) install [stlyus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) extension and create a style for urls matching this regex: `http://localhost:.*/web/.*`
+2) paste in the [css](https://github.com/F-4Dev/grayjay-catppuchin/raw/refs/heads/main/style.css)
 
 ## Chanages made to the UX
 * removed the top subscriptions because they're already visible on the sidebar and  there's more space for videos
